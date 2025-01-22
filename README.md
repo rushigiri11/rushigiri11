@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **React , MongoDB , AIML**
+- 🌱 I’m currently learning **Angular , AIML**
 
-- 💬 Ask me about **Java, Python , SQL.**
+- 💬 Ask me about **C#, Dot Net, Java, Python , SQL.**
 
-- 📫 How to reach me **rushikeshgiri11@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qAY9u4qDrK5OZLOpvD5kxauigwWyvzXt/view?usp=sharing](https://drive.google.com/file/d/1qAY9u4qDrK5OZLOpvD5kxauigwWyvzXt/view?usp=sharing)
+- 📫 How to reach me **11.rushikeshgiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
