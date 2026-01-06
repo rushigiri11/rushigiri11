@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Giri</h1>
 <h3 align="center">A passionate Coder Loves to Solve Problems.</h3>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **AI-Application on generation personalize email**
 
 - 🌱 I’m currently learning **Angular , AIML**
 
